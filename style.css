@@ -19,6 +19,7 @@
 .container1{
     padding: 50px;
     min-height:auto;
+    background-color: rgba(0, 0, 0, 0.308);
 }
 
 .se{
@@ -38,7 +39,7 @@
 }
 .box{
 
-    min-height: 250px;
+    min-height: 400px;
     display: flex;
     align-items: center;
     color:darkorange;
@@ -662,3 +663,4 @@ text-align: center;
 }
 
 }
+
